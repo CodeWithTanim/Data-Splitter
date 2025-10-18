@@ -265,9 +265,9 @@ We welcome contributions from developers and data enthusiasts! Here's how you ca
 Need help or have questions about DataSplitter Pro?
 
 - 📧 **Email**: [codewithtanim+support@gmail.com](mailto:codewithtanim+support@gmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/CodeWithTanim/DataSplitterPro/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/CodeWithTanim/DataSplitterPro/discussions)
-- 📚 **Documentation**: [User Guide](docs/user_guide.md)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/CodeWithTanim/Data-Splitter/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/CodeWithTanim/Data-Splitter/discussions)
+
 
 ---
 
