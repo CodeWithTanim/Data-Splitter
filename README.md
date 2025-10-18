@@ -1,7 +1,7 @@
 # DataSplitter Pro - CSV File Splitter 🚀
 
 <p align="center">
-  <img src="https://github.com/CodeWithTanim/DataSplitterPro/blob/main/assets/datasplitter-banner.png" alt="DataSplitter Pro Banner" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <img src="https://github.com/CodeWithTanim/Data-Splitter/blob/main/Data-Splitter.jpg" alt="DataSplitter Pro Banner" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">📊 DataSplitter Pro - Your Ultimate CSV File Management Solution</h1>
@@ -272,11 +272,8 @@ Need help or have questions about DataSplitter Pro?
 ---
 
 ## 🔄 Version History
-
-- **v1.0.0** (Current) - Initial release with core splitting functionality
-- **v1.1.0** (Planned) - Additional file formats and advanced options
-- **v2.0.0** (Future) - Cloud integration and batch processing
-
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/CodeWithTanim/Data-Splitter)
+![GitHub Downloads](https://img.shields.io/github/downloads/CodeWithTanim/Data-Splitter/total)
 ---
 
 <div align="center">
