@@ -145,8 +145,15 @@ For users who prefer not to install Python:
 - **Custom Text Addition**: Add specific headers or metadata to each split file
 - **Multiple Output Control**: Process files in batches with same settings
 - **File Size Management**: Handle files up to several GB in size
-- **Error Recovery**: Continue processing even with malformed data
+- **Error Recovery**: Continue processing even with malformed dat
 
+<div align="center" style="margin: 30px 0;">
+  <a href="https://youtu.be/qOgY9ASLd-c" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Watch_How_to_use_Video_-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" style="border-radius: 10px; padding: 15px 25px; font-size: 18px;">
+  </a>
+  <br>
+  <sub><em>See the software in action with a complete tutorial</em></sub>
+</div>
 ---
 
 ## 🏗️ Project Structure
